@@ -1,4 +1,4 @@
-# SPE-MONN
+# SPE-MONN: Improved compound–protein interaction site and binding affinity prediction using self-supervised protein embeddings
 ### Requirements:
 Python 2.7  
 RDkit  
